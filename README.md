@@ -1,6 +1,3 @@
 ### Hi 😋
-
-![gifparanose](https://user-images.githubusercontent.com/95647164/186744592-66fb92ad-2d12-4922-b536-f1865689248f.gif)
-
-
- [![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)]
+![githubconlupa](https://user-images.githubusercontent.com/95647164/186745007-aacae2ef-578a-47e4-bce8-470740019ae2.svg)
+ ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
