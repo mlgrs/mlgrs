@@ -1,2 +1,2 @@
-![GITHUB](https://user-images.githubusercontent.com/95647164/186754346-3dd102ae-425a-467f-9c62-7c13c64fb6e8.svg)
+![GITHUB](https://user-images.githubusercontent.com/95647164/186754525-e4f86daa-b861-46a4-8146-d285598ae88f.png)
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
